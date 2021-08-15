@@ -15,3 +15,4 @@ Bot line ini merupakan bot yang memiliki fitur sederhana untuk menginformasikan 
 * Hai||Halo||Hello||Hi||assalamualaikum||assalamualaikum wr wb||shalom||salam -> mengucapkan salam
 * Okay||Ok||K||Oke->mendapat balasan stiker
 
+### Oleh : Nova Angelia Eriyanti
